@@ -9,20 +9,33 @@
 - ✅ **大厂出品或有大量真实商业案例**（如腾讯 TDesign、京东 Taro、有赞 Vant）
 - ✅ **社区规模与活跃度**（Star 数、Issue 响应速度、发版频率）
 - ✅ **文档与生态完备**（教程、二开案例、插件生态）
-- ✅ **维护状态健康**（非归档、非长期停更）
+- ✅ **维护状态健康**（非归档、非长期停更，停更会明确标注）
 - ⚠️ **标注许可证与商用注意事项**：AGPL / 修改版 Apache / Fair-code 等特殊许可会明确提示
 
-## 📚 目录
+## 📚 目录（收录 100+ 项目，数据核实于 2026-10-12）
 
 | # | 分类 | 覆盖内容 |
 |---|---|---|
-| 01 | [点单 / 外卖 / 商城](docs/01-ordering-commerce.md) | 瑞幸式点单 App、外卖平台（用户端/商家端/骑手端）、完整开源商城、商城低代码可视化搭建 |
-| 02 | [拖拽式 AI 辅助开发](docs/02-dragdrop-ai-lowcode.md) | AI 工作流平台（Dify / Coze 类）、低代码应用构建器、可视化表单/页面设计器、AI 编程助手 |
-| 03 | [校园应用](docs/03-campus.md) | 交我办式办事大厅底座、校园二手交易、表白墙/社区、跑腿代取、在线考试 |
-| 04 | [跨端开发框架](docs/04-cross-platform.md) | uni-app / Taro / Flutter / React Native / Expo 等多端框架 |
-| 05 | [小程序 & 移动端 UI 组件库](docs/05-ui-libraries.md) | 大厂出品、市场验证的 UI 库（Vant / TDesign / NutUI / WeUI…） |
-| 06 | [后台管理与脚手架](docs/06-admin-scaffold.md) | 若依 / 芋道 / JeecgBoot / Ant Design Pro / vue-vben-admin |
+| 01 | [点单 / 外卖 / 商城](docs/01-ordering-commerce.md) | 瑞幸式点单 App 拆解、外卖平台（用户端/商家端/骑手端）、完整开源商城（mall 84.9k / litemall / CRMEB）、商城低代码搭建 |
+| 02 | [拖拽式 AI 辅助开发](docs/02-dragdrop-ai-lowcode.md) | AI 工作流平台（Dify 158k / Coze / n8n）、低代码应用构建器（Appsmith / ToolJet）、国内表单页面设计器（amis / formily）、AI 编程代理 |
+| 03 | [校园应用](docs/03-campus.md) | 交我办式办事大厅底座、校园二手交易、表白墙/社区、跑腿代取、在线考试、复旦 DanXi 校园 App |
+| 04 | [跨端开发框架](docs/04-cross-platform.md) | uni-app / Taro / Flutter / React Native / Expo / Compose Multiplatform |
+| 05 | [小程序 & 移动端 UI 组件库](docs/05-ui-libraries.md) | 大厂出品、市场验证的 UI 库（Vant / TDesign / NutUI / WeUI / Element Plus…） |
+| 06 | [后台管理与脚手架](docs/06-admin-scaffold.md) | vue-vben-admin / Ant Design Pro / 芋道 / JeecgBoot / gin-vue-admin / Sa-Token |
 | 附 | [开源许可证商用速查](docs/07-license-guide.md) | MIT / Apache-2.0 / AGPL / 修改版许可 / Fair-code 对商用的影响 |
+
+## ⚡ 一分钟速览（每类最值得先看的）
+
+| 你想做 | 首选开源方案 |
+|---|---|
+| 瑞幸式点单小程序 | [yshop-drink](https://github.com/guchengwuyue/yshop-drink)（扫码点单/多门店/SaaS）+ [vant-weapp](https://github.com/youzan/vant-weapp) 换皮 |
+| 完整电商商城 | [mall](https://github.com/macrozheng/mall)（84.9k）/ [litemall](https://github.com/linlinjava/litemall)（MIT 干净）/ [CRMEB](https://github.com/crmeb/CRMEB)（营销玩法全） |
+| 外卖平台四端 | [siam-cloud](https://github.com/siam1026/siam-cloud)（用户/商家/骑手/后台） |
+| 拖拽搭 AI 应用 | [Dify](https://github.com/langgenius/dify)（生态最大）/ [Coze Studio](https://github.com/coze-dev/coze-studio)（字节，Apache-2.0） |
+| 拖拽搭内部工具 | [Appsmith](https://github.com/appsmithorg/appsmith)（开源 Retool） |
+| 校园办事大厅 | [芋道 ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) + [Sa-Token](https://github.com/dromara/Sa-Token)（SSO 统一认证） |
+| 校园二手平台 | [Used-Trading-Platform](https://github.com/wsk1103/Used-Trading-Platform)（MIT） |
+| 多端小程序 | [uni-app](https://github.com/dcloudio/uni-app)（Vue）/ [Taro](https://github.com/NervJS/taro)（React，京东出品） |
 
 ## 🧭 如何选型（决策路径）
 

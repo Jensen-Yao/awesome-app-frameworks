@@ -56,7 +56,7 @@
 
 ## 六、AI 编程代理（自然语言直接生成代码 / 应用）
 
-| 项目 | Stars | 技术证可 | 许可证 | 点评 |
+| 项目 | Stars | 技术栈 | 许可证 | 点评 |
 |---|---|---|---|---|
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 90.6k | Python | MIT | 开源 AI 软件工程师（原 All-Hands-AI），自主改代码 / 跑命令 / 浏览网页，MIT 商用干净 |
 | [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) | 19.9k | TypeScript | MIT | bolt.new 开源版：自然语言生成全栈 Web 应用，社区驱动 |
