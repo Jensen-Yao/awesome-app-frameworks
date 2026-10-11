@@ -1,8 +1,16 @@
 # 🚀 Awesome App Frameworks · 经过市场验证的开源 App / 小程序 / AI 框架精选
 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![项目数](https://img.shields.io/badge/收录项目-100%2B-blue)](docs)
+[![数据更新](https://img.shields.io/badge/数据核实-2026--10--12-green)](#-数据说明)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+[![在线浏览](https://img.shields.io/badge/在线浏览-GitHub%20Pages-orange)](https://jensen-yao.github.io/awesome-app-frameworks/)
+
 > 像瑞幸点单、交我办校园服务这样的产品背后，都有一套"被市场反复验证过"的技术底座。
 >
-> 本仓库系统性收集并分类整理这些**成熟开源项目**：完整业务系统、拖拽式 AI 辅助开发平台、校园应用框架、跨端框架与 UI 组件库，帮助你在选型时"抄对作业"。
+> 本仓库系统性收集并分类整理这些**成熟开源项目**：完整业务系统、拖拽式 AI 辅助开发平台、校园应用框架、跨端框架、UI 组件库与配套能力，帮助你在选型时"抄对作业"。
+>
+> 🖥️ **不想看 Markdown？** [点这里打开可搜索、可筛选的在线总览页 →](https://jensen-yao.github.io/awesome-app-frameworks/)
 
 ## 🎯 收录原则（市场验证优先）
 
@@ -22,7 +30,8 @@
 | 04 | [跨端开发框架](docs/04-cross-platform.md) | uni-app / Taro / Flutter / React Native / Expo / Compose Multiplatform |
 | 05 | [小程序 & 移动端 UI 组件库](docs/05-ui-libraries.md) | 大厂出品、市场验证的 UI 库（Vant / TDesign / NutUI / WeUI / Element Plus…） |
 | 06 | [后台管理与脚手架](docs/06-admin-scaffold.md) | vue-vben-admin / Ant Design Pro / 芋道 / JeecgBoot / gin-vue-admin / Sa-Token |
-| 附 | [开源许可证商用速查](docs/07-license-guide.md) | MIT / Apache-2.0 / AGPL / 修改版许可 / Fair-code 对商用的影响 |
+| 07 | [配套能力](docs/07-essential-services.md) | 微信生态 SDK（WxJava 33.2k）/ 聚合支付（jeepay）/ IM（OpenIM）/ 消息推送（novu） |
+| 附 | [开源许可证商用速查](docs/08-license-guide.md) | MIT / Apache-2.0 / AGPL / 修改版许可 / Fair-code 对商用的影响 |
 
 ## ⚡ 一分钟速览（每类最值得先看的）
 
@@ -36,6 +45,7 @@
 | 校园办事大厅 | [芋道 ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) + [Sa-Token](https://github.com/dromara/Sa-Token)（SSO 统一认证） |
 | 校园二手平台 | [Used-Trading-Platform](https://github.com/wsk1103/Used-Trading-Platform)（MIT） |
 | 多端小程序 | [uni-app](https://github.com/dcloudio/uni-app)（Vue）/ [Taro](https://github.com/NervJS/taro)（React，京东出品） |
+| 微信后端对接 | [WxJava](https://github.com/binarywang/WxJava)（33.2k，微信全家桶 SDK） |
 
 ## 🧭 如何选型（决策路径）
 
@@ -47,7 +57,8 @@
    - 只想要"点单界面 + 自己写后端" → 分类 05 的 UI 组件库 + 分类 01 的参考项目
    - 想快速搭建内部工具 / AI 应用 / 自动化流程 → 分类 02 的低代码平台
    - 做校园项目（二手、表白墙、办事大厅）→ 分类 03
-3. **最后查许可证**：任何商用动作前，先读[许可证速查](docs/07-license-guide.md)，再看目标仓库的 LICENSE 原文
+   - 支付 / 聊天 / 推送等横向能力 → 分类 07
+3. **最后查许可证**：任何商用动作前，先读[许可证速查](docs/08-license-guide.md)，再看目标仓库的 LICENSE 原文
 
 ## 📅 数据说明
 

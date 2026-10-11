@@ -75,4 +75,4 @@
 - **做外卖平台四端**：siam-cloud 或 flash-waimai 起步，配送调度 / 地图轨迹需自研或接商业 SDK
 - **只想抄点单 UI**：wechat-app-mall + bee，配 Vant Weapp / TDesign 组件库
 
-> 商用前必读：[开源许可证商用速查](07-license-guide.md)。AGPL / GPL 系项目做闭源商用或 SaaS 前请务必确认义务。
+> 商用前必读：[开源许可证商用速查](08-license-guide.md)。AGPL / GPL 系项目做闭源商用或 SaaS 前请务必确认义务。

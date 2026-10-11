@@ -71,4 +71,4 @@
 - **AI Demo 原型**：Streamlit / Gradio 二选一
 - **自然语言生成应用**：bolt.diy（Web 全栈）、OpenHands（通用工程）
 
-> 商用前必读：[开源许可证商用速查](07-license-guide.md)。本分类是"特殊许可"重灾区：Dify / FastGPT 的修改版 Apache、n8n 的 Fair-code、ToolJet / NocoDB / Teable 的 AGPL，都有明确商用约束。
+> 商用前必读：[开源许可证商用速查](08-license-guide.md)。本分类是"特殊许可"重灾区：Dify / FastGPT 的修改版 Apache、n8n 的 Fair-code、ToolJet / NocoDB / Teable 的 AGPL，都有明确商用约束。
