@@ -1,0 +1,40 @@
+name: 推荐新项目
+description: 推荐一个经过市场验证的开源项目加入本清单
+labels: ["recommendation"]
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: 所属分类
+      options:
+        - "01 点单/外卖/商城"
+        - "02 拖拽式AI低代码"
+        - "03 校园应用"
+        - "04 跨端框架"
+        - "05 UI组件库"
+        - "06 后台脚手架"
+        - "07 配套能力"
+        - "其他/建议新分类"
+    validations:
+      required: true
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub 仓库地址
+      placeholder: "owner/repo"
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: 市场验证证据
+      description: 谁在用 / 大厂背书 / Star 数 / 真实商业案例（本清单以"市场验证优先"为收录原则）
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: 许可证
+      placeholder: "如 MIT / Apache-2.0 / AGPL-3.0"
+    validations:
+      required: true

@@ -6,6 +6,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 [![在线浏览](https://img.shields.io/badge/在线浏览-GitHub%20Pages-orange)](https://jensen-yao.github.io/awesome-app-frameworks/)
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome App Frameworks · 经过市场验证的开源 App / 小程序 / AI 框架精选" width="100%">
+</p>
+
 > 像瑞幸点单、交我办校园服务这样的产品背后，都有一套"被市场反复验证过"的技术底座。
 >
 > 本仓库系统性收集并分类整理这些**成熟开源项目**：完整业务系统、拖拽式 AI 辅助开发平台、校园应用框架、跨端框架、UI 组件库与配套能力，帮助你在选型时"抄对作业"。
@@ -33,6 +37,10 @@
 | 07 | [配套能力](docs/07-essential-services.md) | 微信生态 SDK（WxJava 33.2k）/ 聚合支付（jeepay）/ IM（OpenIM）/ 消息推送（novu） |
 | 附 | [开源许可证商用速查](docs/08-license-guide.md) | MIT / Apache-2.0 / AGPL / 修改版许可 / Fair-code 对商用的影响 |
 
+<p align="center">
+  <img src="assets/category-stats.svg" alt="各分类收录项目数统计图" width="85%">
+</p>
+
 ## ⚡ 一分钟速览（每类最值得先看的）
 
 | 你想做 | 首选开源方案 |
@@ -48,6 +56,22 @@
 | 微信后端对接 | [WxJava](https://github.com/binarywang/WxJava)（33.2k，微信全家桶 SDK） |
 
 ## 🧭 如何选型（决策路径）
+
+```mermaid
+flowchart TD
+    A["🤔 你要做什么？"] --> B{"目标端是什么？"}
+    B -->|"国内小程序 + H5 + App"| C["uni-app / Taro<br/>→ 分类 04"]
+    B -->|"原生体验 App"| D["Flutter / React Native + Expo<br/>→ 分类 04"]
+    B -->|"先定业务系统"| E{"什么业务？"}
+    E -->|"瑞幸式点单 / 商城"| F["yshop-drink / mall / CRMEB<br/>→ 分类 01"]
+    E -->|"外卖平台（四端）"| G["siam-cloud<br/>→ 分类 01"]
+    E -->|"校园：办事大厅/二手/表白墙"| H["芋道底座 + 校园项目<br/>→ 分类 03"]
+    E -->|"内部工具 / AI 应用"| I["Appsmith / Dify<br/>→ 分类 02"]
+    C & D & F & G & H & I --> J{"要商用吗？"}
+    J -->|"是"| K["⚖️ 先查许可证速查<br/>→ 分类 08"]
+    J -->|"否"| L["🚀 直接开干"]
+    K --> L
+```
 
 1. **先想清楚你要做什么端**
    - 微信小程序 + H5 + App 多端覆盖 → 跨端框架（uni-app / Taro，见分类 04）

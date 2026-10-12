@@ -29,5 +29,11 @@
 1. Fork → 修改对应 `docs/` 分类文档 → 保持表格列结构一致
 2. 提交 PR，标题格式：`[分类编号] 新增/修正 项目名`（如 `[01] 新增 mall4cloud`）
 3. 数据类修正请在 PR 描述中附上统计日期
+4. 新增项目时请同步更新两处：`docs/` 分类文档（人工点评）+ `data/projects.json`（在线总览页数据源，字段：`c` 分类 / `r` 仓库全名 / `s` Stars / `l` 许可证 / `lic` 风险级别 ok·warn·risk / `d` 一句话点评）
+
+## 🔄 数据自动刷新
+
+- 仓库配有 GitHub Actions（`.github/workflows/refresh-stars.yml`）：**每周一自动 + 支持手动触发**，运行 `scripts/refresh-stars.mjs` 刷新全部项目的 Star 数与归档状态，并同步更新 `data/projects.json` 与在线总览页的同步日期
+- Star 数以[在线总览页](https://jensen-yao.github.io/awesome-app-frameworks/)为准（每周同步）；`docs/` Markdown 文档是人工点评版本，其"统计于"日期为该次人工整理的时间
 
 感谢每一位贡献者！

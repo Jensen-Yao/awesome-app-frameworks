@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Awesome App Frameworks banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1424"/>
+      <stop offset="0.55" stop-color="#101a30"/>
+      <stop offset="1" stop-color="#1a1030"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="0.5" stop-color="#a371f7"/>
+      <stop offset="1" stop-color="#f778ba"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#30363d" opacity="0.55"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#dots)"/>
+  <rect width="1200" height="150" rx="18" fill="url(#fade)"/>
+  <circle cx="1120" cy="60" r="150" fill="#3b82f6" opacity="0.07"/>
+  <circle cx="80" cy="280" r="120" fill="#a371f7" opacity="0.08"/>
+
+  <text x="44" y="86" font-family="sans-serif" font-size="20" fill="#8b949e">MARKET-VALIDATED · OPEN SOURCE</text>
+  <text x="44" y="142" font-family="-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="46" font-weight="bold" fill="#e6edf3">🚀 Awesome App Frameworks</text>
+  <rect x="46" y="158" width="300" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="44" y="196" font-family="-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="19" fill="#8b949e">经过市场验证的开源 App / 小程序 / AI 框架精选 · 100+ 项目 · 附许可证商用风险标注</text>
+
+  <!-- 分类胶囊 -->
+  <g font-family="-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="14">
+    <rect x="44"  y="222" width="168" height="36" rx="18" fill="#161b22" stroke="#30363d"/>
+    <text x="128" y="245" text-anchor="middle" fill="#e6edf3">🛵 点单·外卖·商城</text>
+    <rect x="224" y="222" width="182" height="36" rx="18" fill="#161b22" stroke="#30363d"/>
+    <text x="315" y="245" text-anchor="middle" fill="#e6edf3">🤖 拖拽式 AI 低代码</text>
+    <rect x="418" y="222" width="116" height="36" rx="18" fill="#161b22" stroke="#30363d"/>
+    <text x="476" y="245" text-anchor="middle" fill="#e6edf3">🎓 校园应用</text>
+    <rect x="546" y="222" width="116" height="36" rx="18" fill="#161b22" stroke="#30363d"/>
+    <text x="604" y="245" text-anchor="middle" fill="#e6edf3">📱 跨端框架</text>
+    <rect x="674" y="222" width="128" height="36" rx="18" fill="#161b22" stroke="#30363d"/>
+    <text x="738" y="245" text-anchor="middle" fill="#e6edf3">🎨 UI 组件库</text>
+    <rect x="814" y="222" width="134" height="36" rx="18" fill="#161b22" stroke="#30363d"/>
+    <text x="881" y="245" text-anchor="middle" fill="#e6edf3">🗄️ 后台脚手架</text>
+    <rect x="960" y="222" width="116" height="36" rx="18" fill="#161b22" stroke="#30363d"/>
+    <text x="1018" y="245" text-anchor="middle" fill="#e6edf3">🔌 配套能力</text>
+  </g>
+</svg>
