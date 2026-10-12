@@ -200,7 +200,7 @@
  {
   "c": "c2",
   "r": "langgenius/dify",
-  "s": 158188,
+  "s": 158189,
   "l": "修改版 Apache",
   "lic": "warn",
   "d": "AI 应用平台事实标准：可视化编排 LLM/Agent/RAG；⚠️ 附加条款限制多租户 SaaS 与品牌",
@@ -389,7 +389,7 @@
  {
   "c": "c2",
   "r": "illacloud/illa-builder",
-  "s": 12327,
+  "s": 12328,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "国产开源 Retool，AI 加持的内部工具搭建",
@@ -623,7 +623,7 @@
  {
   "c": "c4",
   "r": "flutter/flutter",
-  "s": 179834,
+  "s": 179836,
   "l": "BSD-3-Clause",
   "lic": "ok",
   "d": "Google 出品，自绘引擎高性能统一 UI，全平台一致体验",
@@ -650,7 +650,7 @@
  {
   "c": "c4",
   "r": "expo/expo",
-  "s": 52655,
+  "s": 52656,
   "l": "MIT",
   "lic": "ok",
   "d": "React Native 最佳开发体验：OTA 热更/云构建/EAS，新项目标配",
