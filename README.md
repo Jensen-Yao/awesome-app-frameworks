@@ -55,6 +55,19 @@
 | 多端小程序 | [uni-app](https://github.com/dcloudio/uni-app)（Vue）/ [Taro](https://github.com/NervJS/taro)（React，京东出品） |
 | 微信后端对接 | [WxJava](https://github.com/binarywang/WxJava)（33.2k，微信全家桶 SDK） |
 
+## 🖼️ 截图预览精选
+
+> 全部 100 个项目的预览图可在[在线总览页](https://jensen-yao.github.io/awesome-app-frameworks/)按分类浏览（每周自动提取与校验，来源为各项目 README）：
+
+| 项目 | 预览 |
+|---|---|
+| **[mall](https://github.com/macrozheng/mall)** · 电商后台（84.9k⭐） | <img src="https://raw.githubusercontent.com/macrozheng/mall/master/document/resource/mall_admin_show.png" width="380" alt="mall 预览"> |
+| **[Dify](https://github.com/langgenius/dify)** · AI 工作流编排（158k⭐） | <img src="https://raw.githubusercontent.com/langgenius/dify/main/images/GitHub_README_if.png" width="380" alt="dify 预览"> |
+| **[mall-cook](https://github.com/wangyuan389/mall-cook)** · 商城可视化搭建 | <img src="https://raw.githubusercontent.com/wangyuan389/mall-cook/master/static/MallCook-Build.gif" width="380" alt="mall-cook 演示"> |
+| **[siam-cloud](https://github.com/siam1026/siam-cloud)** · 外卖小程序用户端 | <img src="https://raw.githubusercontent.com/siam1026/siam-cloud/master/doc/images/wxapplet-user/home.jpg" width="380" alt="siam-cloud 预览"> |
+| **[n8n](https://github.com/n8n-io/n8n)** · 自动化工作流（207k⭐） | <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-screenshot-readme.png" width="380" alt="n8n 预览"> |
+| **[yshop-drink](https://github.com/guchengwuyue/yshop-drink)** · 扫码点单（瑞幸式） | <img src="https://raw.githubusercontent.com/guchengwuyue/yshop-drink/master/assets/image.png" width="380" alt="yshop-drink 预览"> |
+
 ## 🧭 如何选型（决策路径）
 
 ```mermaid
