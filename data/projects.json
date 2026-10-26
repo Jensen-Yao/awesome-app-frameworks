@@ -2,7 +2,7 @@
  {
   "c": "c1",
   "r": "macrozheng/mall",
-  "s": 84925,
+  "s": 84960,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "国内最流行的开源电商系统，Spring Boot + Vue + uni-app，配套教程极其完善，首选学习与二开对象",
@@ -12,7 +12,7 @@
  {
   "c": "c1",
   "r": "EastWorld/wechat-app-mall",
-  "s": 21872,
+  "s": 21890,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "纯原生微信小程序商城，适合只想要『点单界面』的前端参考",
@@ -22,7 +22,7 @@
  {
   "c": "c1",
   "r": "linlinjava/litemall",
-  "s": 20387,
+  "s": 20394,
   "l": "MIT",
   "lic": "ok",
   "d": "『小而全』典范：Spring Boot + Vue + 小程序四模块边界清晰，MIT 商用友好",
@@ -32,7 +32,7 @@
  {
   "c": "c1",
   "r": "macrozheng/mall-swarm",
-  "s": 13166,
+  "s": 13181,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "mall 的 Spring Cloud 微服务版，练分布式电商选它",
@@ -42,7 +42,7 @@
  {
   "c": "c1",
   "r": "newbee-ltd/newbee-mall",
-  "s": 11651,
+  "s": 11655,
   "l": "GPL-3.0",
   "lic": "risk",
   "d": "教学向经典商城；注意许可证已改为 GPL-3.0，闭源商用需谨慎",
@@ -52,7 +52,7 @@
  {
   "c": "c1",
   "r": "crmeb/CRMEB",
-  "s": 9419,
+  "s": 9443,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "营销玩法最全的 PHP 商城：分销/拼团/砍价/秒杀/直播，页面 DIY，商用案例极多",
@@ -71,7 +71,7 @@
  {
   "c": "c1",
   "r": "gz-yami/mall4cloud",
-  "s": 6162,
+  "s": 6165,
   "l": "AGPL-3.0",
   "lic": "risk",
   "d": "Spring Cloud 微服务商城，Vue3 界面现代；AGPL 对 SaaS 有传染性",
@@ -91,7 +91,7 @@
  {
   "c": "c1",
   "r": "fecshop/yii2_fecshop",
-  "s": 5259,
+  "s": 5260,
   "l": "BSD-3-Clause",
   "lic": "ok",
   "d": "Yii2 多语言多货币多入口电商，面向跨境场景",
@@ -101,7 +101,7 @@
  {
   "c": "c1",
   "r": "gz-yami/mall4j",
-  "s": 5287,
+  "s": 5296,
   "l": "AGPL-3.0",
   "lic": "risk",
   "d": "Spring Boot + Vue3 + uni-app 的 B2C 商城，界面现代",
@@ -111,7 +111,7 @@
  {
   "c": "c1",
   "r": "woniudiancang/bee",
-  "s": 4572,
+  "s": 4582,
   "l": "见仓库",
   "lic": "warn",
   "d": "餐饮点餐外卖小程序（云开发），开箱即用，奶茶店实战案例多",
@@ -121,7 +121,7 @@
  {
   "c": "c1",
   "r": "lilishop/lilishop",
-  "s": 4330,
+  "s": 4331,
   "l": "AGPL-3.0",
   "lic": "risk",
   "d": "B2B2C 多商户商城（类天猫），Spring Cloud + uni-app，含商家端",
@@ -131,7 +131,7 @@
  {
   "c": "c1",
   "r": "gongfuxiang/shopxo",
-  "s": 3336,
+  "s": 3343,
   "l": "MIT",
   "lic": "ok",
   "d": "ThinkPHP8 商城，覆盖 PC/H5/六家小程序/App，可视化拖拽装修，MIT 友好",
@@ -141,7 +141,7 @@
  {
   "c": "c1",
   "r": "crmeb/crmeb_java",
-  "s": 3076,
+  "s": 3080,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "CRMEB 的 Java 版，技术栈更主流",
@@ -151,7 +151,7 @@
  {
   "c": "c1",
   "r": "csdeshang/DSPlatform-open",
-  "s": 991,
+  "s": 954,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "多商业模式平台（O2O 外卖/电商/零售），ThinkPHP8 + Vue3 + uni-app",
@@ -161,7 +161,7 @@
  {
   "c": "c1",
   "r": "guchengwuyue/yshop-drink",
-  "s": 1602,
+  "s": 1607,
   "l": "MIT",
   "lic": "ok",
   "d": "★ 最接近瑞幸模式：扫码点单、外卖+自取、多门店、SaaS 多租户，Java17 + Spring Boot 3",
@@ -191,7 +191,7 @@
  {
   "c": "c1",
   "r": "fushengqian/fuintCatering",
-  "s": 429,
+  "s": 437,
   "l": "见仓库",
   "lic": "warn",
   "d": "餐饮点餐营销系统：扫码点餐、收银、厨显 KDS、云打印小票、多租户 SaaS",
@@ -201,7 +201,7 @@
  {
   "c": "c1",
   "r": "siam1026/siam-cloud",
-  "s": 345,
+  "s": 347,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "暹罗外卖：多商户入驻，用户/商家/骑手/总管理四端齐全，对标美团",
@@ -211,7 +211,7 @@
  {
   "c": "c2",
   "r": "n8n-io/n8n",
-  "s": 207964,
+  "s": 208616,
   "l": "Fair-code",
   "lic": "risk",
   "d": "工作流自动化王者，400+ 集成节点；⚠️ 非 OSI 开源：可自托管，禁止转售/包装成竞品 SaaS",
@@ -221,7 +221,7 @@
  {
   "c": "c2",
   "r": "langgenius/dify",
-  "s": 158851,
+  "s": 159564,
   "l": "修改版 Apache",
   "lic": "warn",
   "d": "AI 应用平台事实标准：可视化编排 LLM/Agent/RAG；⚠️ 附加条款限制多租户 SaaS 与品牌",
@@ -231,7 +231,7 @@
  {
   "c": "c2",
   "r": "langflow-ai/langflow",
-  "s": 155821,
+  "s": 156024,
   "l": "MIT",
   "lic": "ok",
   "d": "拖拽节点拼 AI 流程，MIT 商用干净，DataStax（IBM 系）维护",
@@ -241,7 +241,7 @@
  {
   "c": "c2",
   "r": "infiniflow/ragflow",
-  "s": 92449,
+  "s": 92876,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "深度文档理解的 RAG 引擎，引用溯源",
@@ -251,7 +251,7 @@
  {
   "c": "c2",
   "r": "OpenHands/OpenHands",
-  "s": 91233,
+  "s": 91866,
   "l": "MIT",
   "lic": "ok",
   "d": "开源 AI 软件工程师：自主改代码/跑命令/浏览网页，MIT 干净",
@@ -261,7 +261,7 @@
  {
   "c": "c2",
   "r": "nocodb/nocodb",
-  "s": 65293,
+  "s": 65364,
   "l": "AGPL-3.0",
   "lic": "risk",
   "d": "把 MySQL/Postgres 变成 Airtable 的多维表格",
@@ -271,7 +271,7 @@
  {
   "c": "c2",
   "r": "FlowiseAI/Flowise",
-  "s": 55513,
+  "s": 55528,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "拖拽式 LLM 应用构建器；⚠️ 仓库已归档（2026-08），历史代码仍可学习",
@@ -281,7 +281,7 @@
  {
   "c": "c2",
   "r": "streamlit/streamlit",
-  "s": 46041,
+  "s": 46123,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "数据/AI 应用原型王者：几行 Python 出可交互页面",
@@ -291,7 +291,7 @@
  {
   "c": "c2",
   "r": "appsmithorg/appsmith",
-  "s": 41083,
+  "s": 41120,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "开源 Retool：拖拽组件 + SQL/API 数据源生成后台应用，内部工具首选",
@@ -301,7 +301,7 @@
  {
   "c": "c2",
   "r": "ToolJet/ToolJet",
-  "s": 41106,
+  "s": 41127,
   "l": "AGPL-3.0",
   "lic": "risk",
   "d": "低代码内部工具构建器，界面现代；AGPL 注意 SaaS 传染",
@@ -311,7 +311,7 @@
  {
   "c": "c2",
   "r": "gradio-app/gradio",
-  "s": 43806,
+  "s": 43894,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "Hugging Face 系 ML 演示界面标准",
@@ -321,7 +321,7 @@
  {
   "c": "c2",
   "r": "refinedev/refine",
-  "s": 35899,
+  "s": 35942,
   "l": "MIT",
   "lic": "ok",
   "d": "React 元框架：CRUD 后台开发效率极高，可与拖拽库组合",
@@ -331,7 +331,7 @@
  {
   "c": "c2",
   "r": "Budibase/budibase",
-  "s": 28328,
+  "s": 28353,
   "l": "GPL-3.0",
   "lic": "risk",
   "d": "自动从数据库生成 CRUD 应用，含表单/权限",
@@ -341,7 +341,7 @@
  {
   "c": "c2",
   "r": "labring/FastGPT",
-  "s": 29856,
+  "s": 29913,
   "l": "修改版 Apache",
   "lic": "warn",
   "d": "国产知识库问答平台，Flow 可视化编排；⚠️ 附加条款同 Dify 风格",
@@ -351,7 +351,7 @@
  {
   "c": "c2",
   "r": "flipped-aurora/gin-vue-admin",
-  "s": 25080,
+  "s": 25098,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "Go + Vue3 后台标杆，内置 AI 辅助（MCP/Skills）",
@@ -361,7 +361,7 @@
  {
   "c": "c2",
   "r": "activepieces/activepieces",
-  "s": 25105,
+  "s": 25228,
   "l": "MIT(引擎)",
   "lic": "ok",
   "d": "轻量自动化工作流，Zapier/Make 的 MIT 替代",
@@ -371,7 +371,7 @@
  {
   "c": "c2",
   "r": "node-red/node-red",
-  "s": 23757,
+  "s": 23783,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "IBM 出品的老牌拖拽式流程编排，物联网时代即市场验证",
@@ -381,7 +381,7 @@
  {
   "c": "c2",
   "r": "teableio/teable",
-  "s": 21901,
+  "s": 21929,
   "l": "AGPL-3.0",
   "lic": "risk",
   "d": "新一代多维表格，性能与视图更现代",
@@ -391,7 +391,7 @@
  {
   "c": "c2",
   "r": "coze-dev/coze-studio",
-  "s": 21729,
+  "s": 21761,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "字节扣子开源版：可视化 Agent/插件/工作流编排",
@@ -401,7 +401,7 @@
  {
   "c": "c2",
   "r": "stackblitz-labs/bolt.diy",
-  "s": 19957,
+  "s": 19992,
   "l": "MIT",
   "lic": "ok",
   "d": "bolt.new 开源版：自然语言生成全栈 Web 应用",
@@ -410,7 +410,7 @@
  {
   "c": "c2",
   "r": "baidu/amis",
-  "s": 18891,
+  "s": 18889,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "百度低代码前端框架：JSON 配置生成页面 + amis-editor 可视化编辑器，政企大量落地",
@@ -420,7 +420,7 @@
  {
   "c": "c2",
   "r": "windmill-labs/windmill",
-  "s": 18218,
+  "s": 18269,
   "l": "AGPL-3.0",
   "lic": "risk",
   "d": "Rust 脚本转工作流/UI 的开发者自动化平台",
@@ -430,7 +430,7 @@
  {
   "c": "c2",
   "r": "illacloud/illa-builder",
-  "s": 12329,
+  "s": 12335,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "国产开源 Retool，AI 加持的内部工具搭建",
@@ -440,7 +440,7 @@
  {
   "c": "c2",
   "r": "alibaba/formily",
-  "s": 12585,
+  "s": 12588,
   "l": "MIT",
   "lic": "ok",
   "d": "阿里表单解决方案，复杂表单事实标准（电商中后台锤炼）",
@@ -450,7 +450,7 @@
  {
   "c": "c2",
   "r": "xaboy/form-create",
-  "s": 7103,
+  "s": 7111,
   "l": "MIT",
   "lic": "ok",
   "d": "Vue 生态 JSON 生成表单 + 拖拽设计器",
@@ -460,7 +460,7 @@
  {
   "c": "c2",
   "r": "GavinZhuLei/vue-form-making",
-  "s": 5560,
+  "s": 5557,
   "l": "MIT",
   "lic": "ok",
   "d": "可视化表单设计器（2023 后更新放缓）",
@@ -470,7 +470,7 @@
  {
   "c": "c2",
   "r": "opentiny/tiny-engine",
-  "s": 2782,
+  "s": 2783,
   "l": "MIT",
   "lic": "ok",
   "d": "华为 OpenTiny 低代码引擎：拖拽搭建页面/区块/物料，可嵌入自有平台",
@@ -480,7 +480,7 @@
  {
   "c": "c3",
   "r": "jeecgboot/JeecgBoot",
-  "s": 48247,
+  "s": 48284,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "低代码平台 + Online 表单 + 工作流，『表单配出来』正是办事大厅要的能力",
@@ -490,7 +490,7 @@
  {
   "c": "c3",
   "r": "discourse/discourse",
-  "s": 47992,
+  "s": 48012,
   "l": "GPL-2.0",
   "lic": "risk",
   "d": "全球最流行开源论坛，校园社区的重方案",
@@ -500,7 +500,7 @@
  {
   "c": "c3",
   "r": "YunaiV/ruoyi-vue-pro",
-  "s": 39892,
+  "s": 40051,
   "l": "MIT",
   "lic": "ok",
   "d": "芋道全家桶：RBAC/工作流(Flowable)/支付/商城/IM，校务二开事实底座，文档极全",
@@ -510,7 +510,7 @@
  {
   "c": "c3",
   "r": "flarum/flarum",
-  "s": 16425,
+  "s": 16431,
   "l": "MIT",
   "lic": "ok",
   "d": "轻快现代的论坛框架，MIT 干净",
@@ -520,7 +520,7 @@
  {
   "c": "c3",
   "r": "apache/answer",
-  "s": 15699,
+  "s": 15700,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "Apache 基金会问答社区（SegmentFault 团队捐献），问答制校园社区首选",
@@ -530,7 +530,7 @@
  {
   "c": "c3",
   "r": "NodeBB/NodeBB",
-  "s": 15240,
+  "s": 15243,
   "l": "GPL-3.0",
   "lic": "risk",
   "d": "Node.js 实时论坛，Socket 实时交互好",
@@ -540,7 +540,7 @@
  {
   "c": "c3",
   "r": "mindskip/xzs",
-  "s": 3912,
+  "s": 3913,
   "l": "AGPL-3.0",
   "lic": "risk",
   "d": "学之思在线考试：学/管/小程序三端；⚠️ AGPL 且商用需授权",
@@ -550,7 +550,7 @@
  {
   "c": "c3",
   "r": "o2oa/o2oa",
-  "s": 4693,
+  "s": 4706,
   "l": "AGPL-3.0",
   "lic": "risk",
   "d": "开源 OA：流程设计器+信息管理+数据库表设计器，天生『办事大厅』形态",
@@ -560,7 +560,7 @@
  {
   "c": "c3",
   "r": "javahuang/SurveyKing",
-  "s": 4028,
+  "s": 4032,
   "l": "MIT",
   "lic": "ok",
   "d": "问卷/考试/投票一体化（问卷星式），MIT 商用友好",
@@ -580,7 +580,7 @@
  {
   "c": "c3",
   "r": "wsk1103/Used-Trading-Platform",
-  "s": 1773,
+  "s": 1778,
   "l": "MIT",
   "lic": "ok",
   "d": "校园二手交易平台（SSM + Vue 前后端全），MIT 商用友好",
@@ -600,7 +600,7 @@
  {
   "c": "c3",
   "r": "oubingbing/school_wechat",
-  "s": 1138,
+  "s": 1140,
   "l": "MIT",
   "lic": "ok",
   "d": "『校园小情书』表白墙/树洞/论坛小程序，可独立部署",
@@ -639,7 +639,7 @@
  {
   "c": "c3",
   "r": "zhuyuzhu/Secondhand-goods-on-campus",
-  "s": 544,
+  "s": 547,
   "l": "无 LICENSE",
   "lic": "risk",
   "d": "校园二手交易小程序（书+物品）",
@@ -649,7 +649,7 @@
  {
   "c": "c3",
   "r": "214140846/TOGO_School_Miniprograme",
-  "s": 427,
+  "s": 431,
   "l": "无 LICENSE",
   "lic": "risk",
   "d": "校园生态小程序：教务+二手+论坛+跑腿代取+兼职，云开发免运维",
@@ -659,7 +659,7 @@
  {
   "c": "c3",
   "r": "DanXi-Dev/DanXi",
-  "s": 429,
+  "s": 434,
   "l": "GPL-3.0",
   "lic": "risk",
   "d": "★ 复旦学生团队开源的一站式校园服务 App（饭卡/空教室/校车/报修），全平台，离『交我办』最近的开源同类",
@@ -668,7 +668,7 @@
  {
   "c": "c3",
   "r": "yangzongzhuan/RuoYi-Vue",
-  "s": 3259,
+  "s": 3267,
   "l": "MIT",
   "lic": "ok",
   "d": "若依主仓库（已迁移至 yangzongzhuan）：无数校务系统二开自此",
@@ -678,7 +678,7 @@
  {
   "c": "c3",
   "r": "dromara/RuoYi-Vue-Plus",
-  "s": 2788,
+  "s": 2811,
   "l": "MIT",
   "lic": "ok",
   "d": "若依社区重制版，Spring Boot 3 + Sa-Token 现代化",
@@ -688,7 +688,7 @@
  {
   "c": "c4",
   "r": "flutter/flutter",
-  "s": 180280,
+  "s": 180380,
   "l": "BSD-3-Clause",
   "lic": "ok",
   "d": "Google 出品，自绘引擎高性能统一 UI，全平台一致体验",
@@ -698,7 +698,7 @@
  {
   "c": "c4",
   "r": "react/react-native",
-  "s": 126712,
+  "s": 126790,
   "l": "MIT",
   "lic": "ok",
   "d": "Meta 出品（已迁至 react 组织），Shopify/Discord 生产验证",
@@ -708,7 +708,7 @@
  {
   "c": "c4",
   "r": "ionic-team/ionic-framework",
-  "s": 52709,
+  "s": 52718,
   "l": "MIT",
   "lic": "ok",
   "d": "Web Components + Capacitor 打包原生 App，企业混合应用常用",
@@ -718,7 +718,7 @@
  {
   "c": "c4",
   "r": "expo/expo",
-  "s": 52835,
+  "s": 53086,
   "l": "MIT",
   "lic": "ok",
   "d": "React Native 最佳开发体验：OTA 热更/云构建/EAS，新项目标配",
@@ -728,7 +728,7 @@
  {
   "c": "c4",
   "r": "dcloudio/uni-app",
-  "s": 41616,
+  "s": 41631,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "国内小程序多端首选：一套 Vue 代码 → 各家小程序/H5/App；配套 HBuilderX 为免费闭源 IDE",
@@ -738,7 +738,7 @@
  {
   "c": "c4",
   "r": "NervJS/taro",
-  "s": 37716,
+  "s": 37737,
   "l": "MIT(附加)",
   "lic": "ok",
   "d": "京东出品并生产自用（京东购物小程序），React 技术栈多端首选",
@@ -748,7 +748,7 @@
  {
   "c": "c4",
   "r": "JetBrains/compose-multiplatform",
-  "s": 19430,
+  "s": 19448,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "Kotlin 声明式 UI 跨 Android/iOS/桌面/Web，KMP 生态核心",
@@ -758,7 +758,7 @@
  {
   "c": "c5",
   "r": "Tencent/weui",
-  "s": 27444,
+  "s": 27448,
   "l": "MIT",
   "lic": "ok",
   "d": "微信官方设计语言基础库，与微信原生风格一致",
@@ -767,7 +767,7 @@
  {
   "c": "c5",
   "r": "element-plus/element-plus",
-  "s": 27813,
+  "s": 27831,
   "l": "MIT",
   "lic": "ok",
   "d": "Element UI 的 Vue3 续作，国内中后台事实标准",
@@ -777,7 +777,7 @@
  {
   "c": "c5",
   "r": "youzan/vant",
-  "s": 24391,
+  "s": 24407,
   "l": "MIT",
   "lic": "ok",
   "d": "有赞移动端：SKU/地址编辑等电商组件开箱即用，点单/商城 H5 首选",
@@ -787,7 +787,7 @@
  {
   "c": "c5",
   "r": "youzan/vant-weapp",
-  "s": 18464,
+  "s": 18470,
   "l": "MIT",
   "lic": "ok",
   "d": "有赞小程序组件库：真实电商海量用户锤炼，电商类小程序事实标准",
@@ -797,7 +797,7 @@
  {
   "c": "c5",
   "r": "ant-design/ant-design-mobile",
-  "s": 12069,
+  "s": 12083,
   "l": "MIT",
   "lic": "ok",
   "d": "蚂蚁移动端：蚂蚁系 App 生产验证，金融级规范",
@@ -807,7 +807,7 @@
  {
   "c": "c5",
   "r": "weilanwl/coloruicss",
-  "s": 12365,
+  "s": 12364,
   "l": "MIT",
   "lic": "ok",
   "d": "高颜值小程序 CSS 库（2024 后停更，样式仍可参考）",
@@ -817,7 +817,7 @@
  {
   "c": "c5",
   "r": "jd-opensource/nutui",
-  "s": 6510,
+  "s": 6513,
   "l": "MIT",
   "lic": "ok",
   "d": "京东 NutUI：京东 App 风格，电商组件（商品卡片/倒计时/大转盘）丰富",
@@ -827,7 +827,7 @@
  {
   "c": "c5",
   "r": "arco-design/arco-design",
-  "s": 5736,
+  "s": 5747,
   "l": "MIT",
   "lic": "ok",
   "d": "字节跳动 ArcoDesign：抖音系产品生产验证",
@@ -837,7 +837,7 @@
  {
   "c": "c5",
   "r": "umicro/uView",
-  "s": 4214,
+  "s": 4213,
   "l": "MIT",
   "lic": "ok",
   "d": "uni-app 老牌组件库（vue2 停滞，vue3 请用 wot-design-uni）",
@@ -847,7 +847,7 @@
  {
   "c": "c5",
   "r": "Tencent/tdesign",
-  "s": 4111,
+  "s": 4120,
   "l": "MIT",
   "lic": "ok",
   "d": "腾讯企业级设计体系：Vue/React/小程序/Flutter 全端一致",
@@ -857,7 +857,7 @@
  {
   "c": "c5",
   "r": "Moonofweisheng/wot-design-uni",
-  "s": 2301,
+  "s": 2303,
   "l": "MIT",
   "lic": "ok",
   "d": "uni-app + vue3 生态最活跃组件库之一，暗黑模式/60+ 组件",
@@ -867,7 +867,7 @@
  {
   "c": "c5",
   "r": "Tencent/tdesign-miniprogram",
-  "s": 1779,
+  "s": 1782,
   "l": "MIT",
   "lic": "ok",
   "d": "腾讯 TDesign 小程序版，企业级设计体系",
@@ -877,7 +877,7 @@
  {
   "c": "c5",
   "r": "Tencent/tdesign-flutter",
-  "s": 1216,
+  "s": 1221,
   "l": "MIT",
   "lic": "ok",
   "d": "腾讯 TDesign Flutter 版，全端视觉统一",
@@ -887,7 +887,7 @@
  {
   "c": "c6",
   "r": "PanJiaChen/vue-element-admin",
-  "s": 90141,
+  "s": 90126,
   "l": "MIT",
   "lic": "ok",
   "d": "中后台脚手架传奇（vue2 已停更，新项目用其精神续作 vben）",
@@ -897,7 +897,7 @@
  {
   "c": "c6",
   "r": "ant-design/ant-design-pro",
-  "s": 38864,
+  "s": 38898,
   "l": "MIT",
   "lic": "ok",
   "d": "蚂蚁中后台最佳实践，React 技术栈首选",
@@ -907,7 +907,7 @@
  {
   "c": "c6",
   "r": "vbenjs/vue-vben-admin",
-  "s": 33628,
+  "s": 33675,
   "l": "MIT",
   "lic": "ok",
   "d": "vue-element-admin 的现代接班人：Vue3 + Vite，多主题，社区极活跃",
@@ -917,7 +917,7 @@
  {
   "c": "c6",
   "r": "pure-admin/vue-pure-admin",
-  "s": 20699,
+  "s": 20704,
   "l": "MIT",
   "lic": "ok",
   "d": "高颜值 Vue3 后台，企业落地案例多",
@@ -927,7 +927,7 @@
  {
   "c": "c6",
   "r": "macrozheng/mall-admin-web",
-  "s": 12640,
+  "s": 12642,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "mall 电商后台前端，可配合自研后端",
@@ -937,7 +937,7 @@
  {
   "c": "c6",
   "r": "dromara/Sa-Token",
-  "s": 19088,
+  "s": 19103,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "一站式权限认证：登录/权限/SSO 单点登录——『交我办』式统一身份认证的开源答案",
@@ -947,7 +947,7 @@
  {
   "c": "c7",
   "r": "novuhq/novu",
-  "s": 40168,
+  "s": 40202,
   "l": "自定义条款",
   "lic": "warn",
   "d": "开源通知基础设施：邮件/短信/Push/站内信统一编排；商用前读 LICENSE 原文",
@@ -957,7 +957,7 @@
  {
   "c": "c7",
   "r": "binarywang/WxJava",
-  "s": 33160,
+  "s": 33166,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "微信开发 Java SDK 事实标准：小程序/公众号/支付/企业微信/视频号全覆盖",
@@ -967,7 +967,7 @@
  {
   "c": "c7",
   "r": "openimsdk/open-im-server",
-  "s": 16704,
+  "s": 16727,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "开源 IM 服务端：私有化部署、消息可靠投递，给商城/校园 App 内嵌聊天客服",
@@ -977,7 +977,7 @@
  {
   "c": "c7",
   "r": "jeequan/jeepay",
-  "s": 6450,
+  "s": 6490,
   "l": "LGPL-3.0",
   "lic": "warn",
   "d": "开源聚合支付：微信/支付宝/云闪付，多服务商+普通商户，聚合码支付",
@@ -987,7 +987,7 @@
  {
   "c": "c7",
   "r": "turms-im/turms",
-  "s": 1925,
+  "s": 1926,
   "l": "Apache-2.0",
   "lic": "ok",
   "d": "面向 10 万~千万级并发的开源 IM 引擎，架构先进",
